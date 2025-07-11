@@ -1,0 +1,27 @@
+#b{
+    background-image:url(images/bg.webp) ;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#about{
+    color: aliceblue;
+    border: dashed aliceblue;
+    width:400px;
+    height: 120px;
+    margin-left: 300px;
+}
+
+#skills,td{
+    color: aliceblue;
+    border: solid aliceblue;
+    border-collapse:collapse;
+    text-align: center;
+    width: 350px;
+    height: 50px;
+    margin-left:350px;
+}
+
+#c{
+    text-align: center;
+}
